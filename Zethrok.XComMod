@@ -1,5 +1,6 @@
 ﻿[mod]
-publishedFileId=865667559
-Title=LEBDropDownReplacement
-Description=Description of My XCOM 2 Mod.
-tags= Ui, Lw2, Long War 2
+publishedFileId=0
+Title=Zethrok
+Description=Zethrok
+RequiresXPACK=true
+tags=Zethrok
